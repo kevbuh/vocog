@@ -13,3 +13,4 @@ PAPERS:
 - WaveNet: A Generative Model for Raw Audio
 - A Survey on Neural Speech Synthesis: https://arxiv.org/pdf/2106.15561.pdf
 - VQ-VAE: https://arxiv.org/abs/1711.00937v2
+- Music transformer: https://openai.com/research/musenet
